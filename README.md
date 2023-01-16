@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 I'm a Front-End developer with a passion in coding.<br>👾 I study at Daugavpils University.<br>🌱 I’m currently learning javascript.
+🌎 I'm a Full-Stack developer with a passion in coding.<br>👾 I study at Daugavpils University.<br>🌱 I’m currently learning javascript.
 
 
 ## 🌐 Socials:
